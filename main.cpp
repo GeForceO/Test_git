@@ -13,7 +13,7 @@ std::string pig_it(std::string str)
 {
     std::string temp;
     std::string res;
-    
+    char b;
 
     for (int i = 0; i < str.size(); ++i)
     {
